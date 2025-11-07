@@ -1,4 +1,9 @@
 # UTS_KecerdasanbuatanTatia
+# Nama Kelompok
+# NADIATUL UMAH
+# TATIA DESWITA ANGGRAENI
+# SILVI FARA DITA
+# FAISAL ARYA
 
 ### Nama : Tatia Deswita Anggraeni
 ### Nim : 312210478
